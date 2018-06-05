@@ -1,0 +1,5 @@
+Basic JS
+Data types
+DOM manipulation and events
+JSON
+Hostgator
